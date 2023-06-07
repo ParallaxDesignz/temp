@@ -7,7 +7,7 @@ const server = http.createServer(app);
 
 app.use(express.json());
 
-server.listen(8000, () => {
+server.listen(9443, () => {
   console.log("Server is running");
 
   const ws = new WebSocket("wss://stream.binance.com:9443/ws/luncusdt@trade");
