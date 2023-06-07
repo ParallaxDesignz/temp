@@ -1,0 +1,23 @@
+{
+    "data": [
+        {
+            "source": "Delhi",
+            "destination": "Jaipur",
+            "date": "15-04-2023",
+            "fligts": [
+                {
+                    "name": "indigo",
+                    "price": "₹1,614"
+                },
+                {
+                    "name": "airAsia",
+                    "price": "₹1,869"
+                },
+                {
+                    "name": "vistara",
+                    "price": "₹2,133"
+                }
+            ]
+        }
+    ]
+}
